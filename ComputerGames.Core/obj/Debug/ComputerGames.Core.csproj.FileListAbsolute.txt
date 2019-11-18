@@ -1,0 +1,22 @@
+D:\Development\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csprojAssemblyReference.cache
+D:\Development\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csproj.CoreCompileInputs.cache
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Core.dll
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Core.pdb
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Dal.dll
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\Dapper.dll
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Dal.pdb
+D:\Development\ComputerGames\ComputerGames.Core\bin\Debug\Dapper.xml
+D:\Development\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csproj.CopyComplete
+D:\Development\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.dll
+D:\Development\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Core.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Core.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Dal.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\Dapper.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\ComputerGames.Dal.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\bin\Debug\Dapper.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Core\obj\Debug\ComputerGames.Core.pdb

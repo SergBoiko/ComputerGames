@@ -1,0 +1,18 @@
+D:\Development\ComputerGames\ComputerGames.Dal\bin\Debug\ComputerGames.Dal.dll
+D:\Development\ComputerGames\ComputerGames.Dal\bin\Debug\ComputerGames.Dal.pdb
+D:\Development\ComputerGames\ComputerGames.Dal\bin\Debug\Dapper.dll
+D:\Development\ComputerGames\ComputerGames.Dal\bin\Debug\Dapper.xml
+D:\Development\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csprojAssemblyReference.cache
+D:\Development\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csproj.CoreCompileInputs.cache
+D:\Development\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csproj.CopyComplete
+D:\Development\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.dll
+D:\Development\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\bin\Debug\ComputerGames.Dal.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\bin\Debug\ComputerGames.Dal.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\bin\Debug\Dapper.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\bin\Debug\Dapper.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\ADO_NET DZ GAME\ComputerGames\ComputerGames.Dal\obj\Debug\ComputerGames.Dal.pdb
